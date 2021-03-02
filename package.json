@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "- NodeJS is a Javascript Runtime\r - NodeJS is NOT a framework or language\r - Written in C++\r - Built on the V8 Javascript Engine (like Google Chrome)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DumitracheFlorentin/Learning-NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DumitracheFlorentin/Learning-NodeJS/issues"
+  },
+  "homepage": "https://github.com/DumitracheFlorentin/Learning-NodeJS#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
