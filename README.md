@@ -19,3 +19,16 @@
 npm init
 npm install express
 ```
+
+## Node Modules
+
+- Example of Node Core Modules (path, fs, http etc)
+- 3rd party modules/ packages installed via NPM
+- Custom modules (files)
+
+### Simple example
+
+```
+const path = require('path');
+const myFile = require('./myFile');
+```
