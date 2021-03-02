@@ -32,15 +32,3 @@ npm install express
 const path = require('path');
 const myFile = require('./myFile');
 ```
-
-## Modules
-
-### Path Module
-
-How to include path module to js code
-
-```
-const path = require("path");
-```
-
-#### Some examples
