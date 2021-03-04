@@ -4,7 +4,8 @@
   "description": "- NodeJS is a Javascript Runtime\r - NodeJS is NOT a framework or language\r - Written in C++\r - Built on the V8 Javascript Engine (like Google Chrome)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index",
+    "dev": "nodemon index"
   },
   "repository": {
     "type": "git",
